@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Fooch!</p>
       </header>
     </div>
   );
